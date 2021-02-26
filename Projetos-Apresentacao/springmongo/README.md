@@ -1,1 +1,1 @@
-# quarkus-mongo project
+# spring-mongo project
