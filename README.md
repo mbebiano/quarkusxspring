@@ -61,10 +61,13 @@ O intuito desse projeto é apresentar, de forma prática, a comparação entre o
 
 ### Consumo de memória
 
+ <img src="images/consumo.jpg" alt="consumo" width="80" height="80">
+
 Um comparativo no uso de memória de aplicações similares, em Quarkus e Spring Boot.
 
 ### Tempo de inicialização
 
+<img src="images/inicializacao.jpg" alt="inicializacao" width="80" height="80">
 Um comparativo do tempo de incialização de aplicações similares, em Quarkus e Spring Boot.
 
 
