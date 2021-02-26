@@ -72,7 +72,7 @@ Um comparativo do tempo de incialização de aplicações similares, em Quarkus 
 
 
 <!-- LICENSE -->
-## License
+## Licença
 
 Distribuido sobre a licença MIT. Veja a `LICENSE` para mais informações.
 
